@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810214656764",
+    "project_id": "famifoodapp",
+    "storage_bucket": "famifoodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810214656764:android:c5d2ff814b8ab1e4666579",
+        "android_client_info": {
+          "package_name": "chakib.selmi.fami_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810214656764-kfpljuhsemo7ig4epvs6atea3t0u7kkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3J3_rtwnhqVPiISA69OA4ITdczYDm50A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810214656764-kfpljuhsemo7ig4epvs6atea3t0u7kkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
